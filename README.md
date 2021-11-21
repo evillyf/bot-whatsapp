@@ -1,2 +1,3 @@
-# bot-whatsapp
-Objetivo: Enviar mensagem para várias pessoas ou grupos automaticamente.  
+### <h4>SOBRE:</h4>
+
+<blockquote> Enviar mensagens para várias pessoas de uma planilha excel pelo Whatsapp </blockquote>
